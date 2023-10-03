@@ -16,7 +16,7 @@ Technologies: React, CSS3, Material-UI, NodeJs, Express, Mongoose, MongoDB, Redu
 
 
 ## Link
- [Portfolio link](https://social-media-mern-la2e.onrender.com/)
+ [Demo link](https://social-media-mern-la2e.onrender.com/)
 
  
 
